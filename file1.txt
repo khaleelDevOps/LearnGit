@@ -1,6 +1,3 @@
 This is a test file created to push it to github while learning git.
-<<<<<<< HEAD
 This is a test line.
-=======
 Adding another line in the file1.
->>>>>>> Branch1
